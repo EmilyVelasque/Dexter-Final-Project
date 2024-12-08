@@ -3,7 +3,7 @@ This is my final project for my Stats class at TCNJ, where I analyzed scenes fro
 
 **Instructions**
 
-To utilize the script, open the "velasquez.R" file that contains my code for the findings, a the "raw_data.csv"
+To utilize the script, open the "STA215-Velasquez.R" file that contains my code for the findings, a the "raw_data.csv"
 
 **Data**
 
